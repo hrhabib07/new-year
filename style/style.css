@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-container {
+    background-image: url(../images/banner/banner3.png);
+    height: 808px;
+}
+
+.header {
+    width: 100vh;
+    margin-left: 79%;
+}
