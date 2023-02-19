@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Work Sans', sans-serif;
 }
 
 .header-container {
@@ -14,6 +15,33 @@
 }
 
 .header {
-    width: 100vh;
+    width: 600px;
     margin-left: 45%;
+    color: white;
+
+
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: white;
+}
+
+.header-description {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.header-btn {
+    width: 160px;
+    height: 64px;
+    background-color: white;
+    color: #005FAC;
+    border: none;
+    margin-top: 30px;
+    border-radius: 5px;
+    margin-left: 400px;
+    font-weight: 600;
+    font-size: 20px;
 }
