@@ -76,3 +76,30 @@
     margin-top: 10px;
 
 }
+
+.text-center {
+    text-align: center;
+}
+
+.plans {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.plan {
+    margin: 50px;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.plan-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+
+}
