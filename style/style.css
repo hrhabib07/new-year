@@ -5,10 +5,15 @@
 
 .header-container {
     background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-color: #18639d;
     height: 808px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .header {
     width: 100vh;
-    margin-left: 79%;
+    margin-left: 45%;
 }
