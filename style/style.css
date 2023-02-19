@@ -103,3 +103,40 @@
     color: #737272;
 
 }
+
+footer {
+    background-color: #151414;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+}
+
+.footer-div {
+    width: 700px;
+    margin-right: 50px;
+
+}
+
+input {
+    width: 325px;
+    height: 64px;
+    background-color: #151414;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.secondary-btn {
+    width: 170.11px;
+    height: 64px;
+    border-radius: 8px;
+    background-color: #005FAC;
+    border: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+
+}
